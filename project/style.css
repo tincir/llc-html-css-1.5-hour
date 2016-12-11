@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica,Arial,sans-serif;
+}
+
+section {
+  background-color: white;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+/* don't edit this part! */
+section {
+  max-width: 800px;
+  margin: 0 auto;
+}
